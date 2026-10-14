@@ -1,0 +1,12 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": ["799ZXN6M77.owl.paycheck"],
+        "components": [
+          { "/": "/join*", "comment": "Group invite links" }
+        ]
+      }
+    ]
+  }
+}
